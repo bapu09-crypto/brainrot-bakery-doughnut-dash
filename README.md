@@ -1,5 +1,9 @@
 # Brainrot Bakery — Doughnut Dash (v6, baseplate + cylinder fix)
 
+[![make.fun](https://make.fun/badge/roblox-brainrot-01.svg)](https://make.fun/bounty/roblox-brainrot-01)
+[![rank](https://make.fun/badge/roblox-brainrot-01/bapu09-crypto/brainrot-bakery-doughnut-dash/rank.svg)](https://make.fun/bounty/roblox-brainrot-01)
+[![reward](https://make.fun/badge/roblox-brainrot-01/bapu09-crypto/brainrot-bakery-doughnut-dash/reward.svg)](https://make.fun/bounty/roblox-brainrot-01)
+
 A 3D Roblox brainrot game for make.fun's roblox-brainrot-01: a warm bakery
 plaza in midday light, an oven-line conveyor rolling fresh brainrot pastries
 past four stalls, and a Burn Wave that sweeps the map and makes you drop what
