@@ -103,6 +103,15 @@ end
 
 function World.Build()
 	local ws = game:GetService("Workspace")
+
+	-- Sink the place file's Baseplate so its top face sits exactly at
+	-- height 0, instead of burying the plaza and everything built on it.
+	local baseplate = ws:FindFirstChild("Baseplate")
+	if baseplate and baseplate:IsA("BasePart") then
+		baseplate.Position = Vector3.new(baseplate.Position.X, -baseplate.Size.Y / 2, baseplate.Position.Z)
+		baseplate.Anchored = true
+	end
+
 	local folder = Instance.new("Folder")
 	folder.Name = "Bakery"
 	folder.Parent = ws
